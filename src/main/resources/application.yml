@@ -11,4 +11,6 @@ mybatis-plus:
   configuration:
     map-underscore-to-camel-case: false
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+# 本地仓库修改了yaml文件
 # 简单说两句
+# 我又修改了
